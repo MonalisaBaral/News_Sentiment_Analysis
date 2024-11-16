@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+textblob
+nltk
+scikit-learn
+lightgbm
+flask
